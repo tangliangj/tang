@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Model\bin\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Model\bin\Debug\Model.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Model\obj\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Model\obj\Debug\Model.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Model\bin\Debug\Model.dll
+G:\二学年\个人毕业项目\Dormitoryss\Model\bin\Debug\Model.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Model\obj\Debug\Model.dll
+G:\二学年\个人毕业项目\Dormitoryss\Model\obj\Debug\Model.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\bin\Dormikktoryss.dll.config
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\bin\Dormikktoryss.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\bin\Dormikktoryss.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\bin\BLL.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\bin\DAL.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\bin\Model.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\bin\Rule.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\bin\BLL.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\bin\DAL.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\bin\Model.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\bin\Rule.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\obj\Debug\Dormikktoryss.csprojResolveAssemblyReference.cache
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\obj\Debug\Dormikktoryss.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormikktoryss\obj\Debug\Dormikktoryss.pdb

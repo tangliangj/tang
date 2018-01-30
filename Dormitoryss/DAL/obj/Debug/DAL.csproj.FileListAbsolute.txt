@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\DAL\bin\Debug\DAL.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\DAL\bin\Debug\DAL.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\DAL\bin\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\DAL\bin\Debug\Model.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\DAL\obj\Debug\DAL.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\DAL\obj\Debug\DAL.pdb
+G:\二学年\个人毕业项目\Dormitoryss\DAL\bin\Debug\DAL.dll
+G:\二学年\个人毕业项目\Dormitoryss\DAL\bin\Debug\DAL.pdb
+G:\二学年\个人毕业项目\Dormitoryss\DAL\bin\Debug\Model.dll
+G:\二学年\个人毕业项目\Dormitoryss\DAL\bin\Debug\Model.pdb
+G:\二学年\个人毕业项目\Dormitoryss\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\二学年\个人毕业项目\Dormitoryss\DAL\obj\Debug\DAL.dll
+G:\二学年\个人毕业项目\Dormitoryss\DAL\obj\Debug\DAL.pdb

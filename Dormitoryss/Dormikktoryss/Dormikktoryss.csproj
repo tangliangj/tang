@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7241E234-5331-4431-A9CE-56F1FE537BED}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dormikktoryss</RootNamespace>
+    <AssemblyName>Dormikktoryss</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\admin.css" />
+    <Content Include="css\Forum_admin.css" />
+    <Content Include="css\pintuer.css" />
+    <Content Include="Dormuss.Master" />
+    <Content Include="Image\101.jpg" />
+    <Content Include="Image\102.jpg" />
+    <Content Include="Image\103.jpg" />
+    <Content Include="Image\104.jpg" />
+    <Content Include="Image\105.jpg" />
+    <Content Include="Image\106.jpg" />
+    <Content Include="Image\107.jpg" />
+    <Content Include="Image\108.jpg" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\YuxiSlider.jQuery.min.js" />
+    <Content Include="WebVisiting.aspx" />
+    <Content Include="css\唐良杰.zip" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Global.asax" />
+    <Content Include="Image\203.jpg" />
+    <Content Include="Image\delete2.gif" />
+    <Content Include="Image\edit.gif" />
+    <Content Include="js\jquery.js" />
+    <Content Include="js\pintuer.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="WebAdministrator.aspx" />
+    <Content Include="WebAPassword.aspx" />
+    <Content Include="WebDefault.aspx" />
+    <Content Include="WebDormitory.aspx" />
+    <Content Include="WebInsertDormitory.aspx" />
+    <Content Include="WebInsertManagement.aspx" />
+    <Content Include="WebInsertRepair.aspx" />
+    <Content Include="WebInsertStudent.aspx" />
+    <Content Include="WebInsertVisiting.aspx" />
+    <Content Include="WebLogin.aspx" />
+    <Content Include="WebManagement.aspx" />
+    <Content Include="Webregistered.aspx" />
+    <Content Include="WebRepair.aspx" />
+    <Content Include="WebStudent.aspx" />
+    <Content Include="WebSushejianjie.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dormuss.Master.cs">
+      <DependentUpon>Dormuss.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dormuss.Master.designer.cs">
+      <DependentUpon>Dormuss.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WebAdministrator.aspx.cs">
+      <DependentUpon>WebAdministrator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebAdministrator.aspx.designer.cs">
+      <DependentUpon>WebAdministrator.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebAPassword.aspx.cs">
+      <DependentUpon>WebAPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebAPassword.aspx.designer.cs">
+      <DependentUpon>WebAPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebDefault.aspx.cs">
+      <DependentUpon>WebDefault.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebDefault.aspx.designer.cs">
+      <DependentUpon>WebDefault.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebDormitory.aspx.cs">
+      <DependentUpon>WebDormitory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebDormitory.aspx.designer.cs">
+      <DependentUpon>WebDormitory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebInsertDormitory.aspx.cs">
+      <DependentUpon>WebInsertDormitory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebInsertDormitory.aspx.designer.cs">
+      <DependentUpon>WebInsertDormitory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebInsertManagement.aspx.cs">
+      <DependentUpon>WebInsertManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebInsertManagement.aspx.designer.cs">
+      <DependentUpon>WebInsertManagement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebInsertRepair.aspx.cs">
+      <DependentUpon>WebInsertRepair.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebInsertRepair.aspx.designer.cs">
+      <DependentUpon>WebInsertRepair.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebInsertStudent.aspx.cs">
+      <DependentUpon>WebInsertStudent.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebInsertStudent.aspx.designer.cs">
+      <DependentUpon>WebInsertStudent.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebInsertVisiting.aspx.cs">
+      <DependentUpon>WebInsertVisiting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebInsertVisiting.aspx.designer.cs">
+      <DependentUpon>WebInsertVisiting.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebLogin.aspx.cs">
+      <DependentUpon>WebLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebLogin.aspx.designer.cs">
+      <DependentUpon>WebLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebManagement.aspx.cs">
+      <DependentUpon>WebManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebManagement.aspx.designer.cs">
+      <DependentUpon>WebManagement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Webregistered.aspx.cs">
+      <DependentUpon>Webregistered.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Webregistered.aspx.designer.cs">
+      <DependentUpon>Webregistered.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebRepair.aspx.cs">
+      <DependentUpon>WebRepair.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebRepair.aspx.designer.cs">
+      <DependentUpon>WebRepair.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebStudent.aspx.cs">
+      <DependentUpon>WebStudent.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebStudent.aspx.designer.cs">
+      <DependentUpon>WebStudent.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebSushejianjie.aspx.cs">
+      <DependentUpon>WebSushejianjie.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebSushejianjie.aspx.designer.cs">
+      <DependentUpon>WebSushejianjie.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebVisiting.aspx.cs">
+      <DependentUpon>WebVisiting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebVisiting.aspx.designer.cs">
+      <DependentUpon>WebVisiting.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{1210666e-d278-445a-acdd-4c1e3603e887}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{3741602d-137c-4981-b47e-546bfc94a8bc}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{c4d57d25-d533-48af-9458-4f14d7cdf959}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Rule\Rule.csproj">
+      <Project>{e05c7e87-28de-4db8-b40b-aa6c086c79fd}</Project>
+      <Name>Rule</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>7715</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:7715/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

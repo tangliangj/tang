@@ -1,0 +1,36 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\Dormitoryss.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\Dormitoryss.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\Dormitoryss.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\Dormitoryss.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\BLL.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\DAL.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\Model.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\Rule.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\BLL.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\DAL.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\Model.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\bin\Rule.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.vbprojResolveAssemblyReference.cache
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\Dormitoryss.dll.config
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\Dormitoryss.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\Dormitoryss.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\Dormitoryss.xml
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\BLL.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\DAL.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\Model.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\Rule.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\BLL.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\DAL.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\Model.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\bin\Rule.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.vbprojResolveAssemblyReference.cache
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.Resources.resources
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.vbproj.GenerateResource.Cache
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.dll
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.xml
+G:\二学年\个人毕业项目\Dormitoryss\Dormitoryss\obj\Debug\Dormitoryss.pdb

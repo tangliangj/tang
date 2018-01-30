@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Rule\bin\Debug\Rule.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Rule\bin\Debug\Rule.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Rule\bin\Debug\DAL.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Rule\bin\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Rule\bin\Debug\DAL.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Rule\bin\Debug\Model.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Rule\obj\Debug\Rule.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Rule\obj\Debug\Rule.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Dormitoryss\Rule\obj\Debug\Rule.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Rule\bin\Debug\Rule.dll
+G:\二学年\个人毕业项目\Dormitoryss\Rule\bin\Debug\Rule.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Rule\bin\Debug\DAL.dll
+G:\二学年\个人毕业项目\Dormitoryss\Rule\bin\Debug\Model.dll
+G:\二学年\个人毕业项目\Dormitoryss\Rule\bin\Debug\DAL.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Rule\bin\Debug\Model.pdb
+G:\二学年\个人毕业项目\Dormitoryss\Rule\obj\Debug\Rule.csprojResolveAssemblyReference.cache
+G:\二学年\个人毕业项目\Dormitoryss\Rule\obj\Debug\Rule.dll
+G:\二学年\个人毕业项目\Dormitoryss\Rule\obj\Debug\Rule.pdb
